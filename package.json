@@ -1,0 +1,11 @@
+{
+  "name": "khole-ke-hanuman-ji",
+  "version": "1.0.0",
+  "description": "Religious Temple in Rajasthan",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Kaushik",
+  "license": "ISC"
+}
